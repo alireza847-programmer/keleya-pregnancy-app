@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#69c0ba",
+      "borderRadius": 11.25,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "marginTop": 0,
+      "opacity": 1,
+      "paddingVertical": 23.345,
+      "width": 600,
+    }
+  }
+>
+  <Text
+    color="#ffffff"
+    style={
+      [
+        {
+          "color": "#ffffff",
+          "fontFamily": "MuseoSansRounded-500",
+          "fontSize": 38.244916147262124,
+          "marginTop": 0,
+          "textAlign": "auto",
+          "width": null,
+        },
+      ]
+    }
+    text="Title"
+    typography={
+      {
+        "fontFamily": "MuseoSansRounded-500",
+        "fontSize": 38.244916147262124,
+      }
+    }
+    width={null}
+  >
+    Title
+  </Text>
+</View>
+`;

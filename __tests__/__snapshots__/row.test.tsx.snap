@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "marginTop": 0,
+        "width": 600,
+      },
+      {
+        "flexDirection": "row",
+      },
+      undefined,
+    ]
+  }
+/>
+`;

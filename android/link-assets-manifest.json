@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MuseoSansRounded-500.ttf",
+      "sha1": "6229c60def61675b3d79f6c517e49590300debc7"
+    },
+    {
+      "path": "src/assets/fonts/MuseoSansRounded-700.ttf",
+      "sha1": "43bf8fb0c66e430737e794b2dbe4aa0644ab8065"
+    }
+  ]
+}
